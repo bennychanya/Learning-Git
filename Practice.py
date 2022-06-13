@@ -9,8 +9,5 @@ print('merge conflict 2')
 print('git remote merge')
 print("git remote pull merge")
 print("remote branch")
-<<<<<<< HEAD
 print("rebase")
-=======
 print("rebase 2")
->>>>>>> 4d3f83e (added rebase 2)
